@@ -1,0 +1,10 @@
+# Mark all platform-specific and auto-generated code as vendored/generated
+# This prevents GitHub from labeling the repo with Java, Kotlin, Swift, C++, etc.
+# and ensures it primarily shows as Dart.
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+windows/** linguist-generated
+web/** linguist-generated
+build/** linguist-generated
