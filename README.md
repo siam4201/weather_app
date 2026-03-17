@@ -6,11 +6,6 @@ The app features a clean and modern user interface, complete with beautiful Lott
 ---
 
 ## Screenshots
-
-| Start Screen | Input | Result |
-|-------------|------------|---------------|
-| <img src="assets/Screenshot_1.png" width="200"/> | <img src="assets/Screenshot_2.png" width="200"/> | <img src="assets/Screenshot_3.png" width="200"/> |
-
 ### Weather Conditions
 
 | Sunny | Shower | Windy | Storm |
